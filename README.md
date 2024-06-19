@@ -348,6 +348,9 @@ strings_list = ["Hello", "World", "How", "Are", "You"]
 **Note:-** Make sure to replace "sample.txt" with the path to the file you want to read from, and "output.txt" with the name of the file you want to write the list of strings to.
 
 
+Source/References: Google search engine, Python Basics: A Practical Introduction to Python 3 Revised and Updated 4th Edition by David Amos, Dan Bader, Joanna Jablonski and Fletcher Heisler
+
+
 # Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
 - Provide code snippets or complete scripts where applicable.
